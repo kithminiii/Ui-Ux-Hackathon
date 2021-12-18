@@ -1,7 +1,5 @@
 # Ui-Ux-Hackathon
 NSBM Esthetique '21 design 
-
-12
 13
 14
 15
